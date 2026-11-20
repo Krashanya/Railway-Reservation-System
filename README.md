@@ -61,6 +61,7 @@ Visually express any specific needs of a system and disseminate that information
 Create detailed charts that…
 
 
+<img width="892" height="570" alt="exp3 class" src="https://github.com/user-attachments/assets/f1da6bd6-4a27-42ed-9c7b-4e1ced728c19" />
 
 
 # COMMUNICTION DIAGRAM:
